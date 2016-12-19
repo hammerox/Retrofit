@@ -15,5 +15,5 @@
       android:layout_height="wrap_content"
       android:id="@+id/recyclerview">
   </android.support.v7.widget.RecyclerView>
-
+ 
 </LinearLayout>
